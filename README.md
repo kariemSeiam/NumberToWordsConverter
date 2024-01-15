@@ -2,23 +2,23 @@
 
 This repository features a straightforward and elegant solution for a "Number to Words Converter" implemented with HTML, CSS, and JavaScript. The primary objective is to convert numeric input into its corresponding word representation. The project places a strong emphasis on code simplicity, efficiency, and clean design.
 
-## 🚀 Features:
+## 🚀 Features
 
 - **Responsive Design:** The user interface is thoughtfully designed to ensure optimal display on various devices, providing a seamless experience for all users.
-
+  
 - **Input Validation:** Robust input validation is in place to guarantee that users provide a valid number for accurate and reliable conversion.
-
+  
 - **Clean Code:** The JavaScript codebase is organized following best practices, promoting readability and maintainability for developers.
 
-## 📂 Project Structure:
+## 📂 Project Structure
 
 - **index.html:** The main HTML file serves as the foundation, defining the structure of the web page.
-
+  
 - **styles.css:** The CSS file is responsible for styling the user interface, creating a visually appealing and intuitive design.
-
+  
 - **script.js:** The JavaScript file contains the logic for converting numeric input into its word representation, ensuring a smooth and efficient process.
 
-### JavaScript - Conversion Logic:
+### JavaScript - Conversion Logic
 
 ```javascript
 function numberToWords(num, result = "") {
@@ -47,15 +47,17 @@ function numberToWords(num, result = "") {
 }
 ```
 
-## 💻 Usage:
+## 💻 Usage
 
 1. Open `index.html` in a web browser.
-
+  
 2. Enter a number in the input field.
-
+  
 3. Witness the magic as the numeric input seamlessly transforms into words in real-time!
 
-> **Discover the elegance of numeric representation!**
+## 📸 Screenshot
+
+![Number to Words Converter](https://github.com/kariemSeiam/NumberToWordsConverter/assets/57973837/7fda3197-9ecd-4105-a105-3c3a15d05d3b)
 
 ## 🔗 Let's Connect!
 
